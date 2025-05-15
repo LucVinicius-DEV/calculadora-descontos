@@ -1,32 +1,52 @@
-# Calculadora de Descontos
+![Banner](https://github.com/LucVinicius-DEV/calculadora-descontos/blob/main/banner.png)
 
-Este projeto em Java simula uma calculadora de descontos em uma loja. O usuário insere o nome do produto, o valor e escolhe a forma de pagamento, e o sistema aplica o desconto ou acréscimo correspondente.
+# 💸 Calculadora de Descontos em Java
 
-## Funcionalidades
+Repositório contendo um programa simples desenvolvido em Java que calcula o valor final de um produto após a aplicação de um desconto percentual. Ideal para treinar lógica de programação com operações matemáticas e entrada de dados.
 
-- Entrada do nome do produto e valor.
-- Opções de forma de pagamento:
-  - `1` À vista (dinheiro/Pix) - 10% de desconto
-  - `2` Cartão à vista - 5% de desconto
-  - `3` Cartão em 2x - Sem desconto
-  - `4` Cartão em 3x ou mais - Acréscimo de 10%
-- Cálculo do valor final de acordo com a forma de pagamento.
-- Exibição do valor final ou parcelas com formatação adequada.
+---
 
-## Tecnologias
+## 📚 Projeto disponível
+
+- [CALCULADORA DE DESCONTOS](./src) — Programa que realiza o cálculo de desconto sobre um valor informado pelo usuário e exibe o total com desconto aplicado.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 - Java
-- Scanner para entrada de dados
-- Estrutura condicional `if/else` e `switch`
-- Operações matemáticas com desconto e acréscimo
+- IntelliJ IDEA
+- Git & GitHub
 
-## Como rodar o projeto
+---
 
-1. Clone o repositório:
-git clone https://github.com/LucVinicius-DEV/calculadora-descontos.git
-2. Compile e execute no seu ambiente Java:
-javac Main.java java Main
+# 🔍 Sobre o Projeto
 
-   ## Autor
+Este exercício tem como objetivo praticar a manipulação de entradas numéricas e operações aritméticas, especialmente o cálculo de porcentagem.
 
-Projeto desenvolvido por [LucVinicius-DEV](https://github.com/LucVinicius-DEV)
+## ✨ Funcionalidades
+
+- Leitura do preço original e da porcentagem de desconto via terminal.
+- Cálculo automático do valor descontado.
+- Exibição do valor final com desconto aplicado.
+
+---
+
+## ▶️ Como executar
+
+1. Clone o repositório ou abra diretamente na sua IDE Java.
+2. Navegue até a pasta `/src` e abra o arquivo `Main.java`.
+3. Execute o programa e insira os valores conforme solicitado no terminal.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por Lucas Vinícius com apoio da Luna, como parte da prática em operações matemáticas básicas e entrada de dados em Java.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Vinícius-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-LucVinicius--DEV-black?style=flat&logo=github)](https://github.com/LucVinicius-DEV)
+
+---
+
+Se você gostou deste projeto, deixe um ⭐ para apoiar o repositório e acompanhe o progresso pelo [LinkedIn](https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b/) e pelo [GitHub](https://github.com/LucVinicius-DEV)!
